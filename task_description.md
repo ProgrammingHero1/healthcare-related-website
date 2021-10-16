@@ -29,15 +29,13 @@ Our company focused on health tech, currently looking for a front-end web develo
 
 
 ### Bonus: 
-1. Make the website meaningful. Give your website a relevant name. Images and all the content of the website has to be relevant. No `lorem ipsum` please.
-2. Design and Color combination should be impressive.
-3. You should edit your readme file to put all the details of your projects.
-4. After reloading the page on a private route, the user should not be redirected to the login page.
-5. Must be responsive, use your imagination to make it responsive according to users' needs.
-7. Better and useful Readme.md file
-8. Show your ability to work with the Context API
-9. Clean and organized Code
-10. Organize components and add comemnts when needed
+1. Make the website meaningful and consistent. Give your website a relevant name. Images and all the content of the website has to be relevant. No `lorem ipsum` please.
+2. Meaningful `readme.md` file containing your website name, a little description, link to your live site. And at least five bullet points mentioning different features and functionality of your webiste.
+3. After reloading the page on a private route, the user should not be redirected to the login page.
+4. Make the website responsive
+5. Show your ability to work with the Context API
+6. Clean and organized Code
+7. Organize components and add comemnts when needed
 
 
 ### Optional:
@@ -48,6 +46,7 @@ Our company focused on health tech, currently looking for a front-end web develo
 1. Use react.js for frontend. 
 3. You are free to use any css library you want. But, we recommend using tailwind css. 
 4. If needed you can mix CSS framework with a component libarary
+5. Use firebase auth
 
 
-Best wishes for you. Thank You!
+Have FUN! Have Patience. 
