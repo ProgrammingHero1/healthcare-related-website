@@ -6,7 +6,7 @@ Our company focused on healthcare related services. Currently, we are looking fo
 We have a sample task for you.
 
 
-### Task Description: 
+### Task Detail: 
 1. Website has to be a healthcare related website. It could be related to a general hospital, specialized hospital, diagnostic Lab, Doctors' chamber, Dental clinic, eye care hospital, Pharmacy, medicine, physical therapy, exercise, gym, healthcare tech, nursing service, elderly home, mental care, Feminine care, Ambulance service, etc. 
 
 
