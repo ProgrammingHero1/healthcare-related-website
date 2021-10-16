@@ -1,16 +1,14 @@
 
 
 ## Task Description: 
-Our company focused on health tech, currently looking for a front-end web developer to build our brand new website using `React`, `firebase`, `react router`, etc.
+Our company focused on health tech, currently looking for a front-end web developer to build our brand new website using `React`, `firebase`, `react router`, etc. We want to see your ability to develop a website.
 
 
 ### Task Description: 
-1. Website has to be a health care related website. It could be related to hospitals, diagnostic center, Doctors' chamber, Feminine care, Detal clinic, eye care hospital, pharmacy, 
-physical therapy, exercise, gym, nursing service, elderly home, mental care, etc. 
+1. Website has to be a health care related website. It could be related to hospitals, diagnostic center, Doctors' chamber, Feminine care, Detal clinic, eye care hospital, pharmacy, physical therapy, exercise, gym, nursing service, elderly home, mental care, Ambulance service, etc. Your website has to be related to healthcare. 
 
 
-2. Make sure your design and site and website idea is unique. If needed google the site design or visit themeforest. However, your website can not be related to any previous asignment or any demo project displayed in the course or in our 
-conceptual sessions.
+2. Make sure your design and website idea is unique. Finalize your idea. Then if needed, google the site design or visit themeforest. However, your website can not be related to your previous asignments or any demo project displayed in the course or in our conceptual sessions.
 3. Home page will have a header (nav bar), banner, services, and footer 
 4. Add two more sections in the home page excluding the 4 sections we’ve mentioned above.
 
@@ -35,22 +33,21 @@ conceptual sessions.
 2. Design and Color combination should be impressive.
 3. You should edit your readme file to put all the details of your projects.
 4. After reloading the page on a private route, the user should not be redirected to the login page.
-The UI of all the pages should be consistent with the home page, use your imagination to come up with something that’ll look good with the rest of the site.
-Must be responsive, use your imagination to make it responsive according to users' needs.
-Use firebase for authentication.
-Please make sure all your functionalities are working before submitting the task.
-
-The Footer shouldn’t be much simpler.
+5. Must be responsive, use your imagination to make it responsive according to users' needs.
+7. Better and useful Readme.md file
+8. Show your ability to work with the Context API
+9. Clean and organized Code
+10. Organize components and add comemnts when needed
 
 
 ### Optional:
+1. 
 
 
 ### Additional information:
 1. Use react.js for frontend. 
-2. You are free to use any css library you want. But, we recommend using tailwind css. 
-3. If needed you can mix CSS framework with a component libarary
+3. You are free to use any css library you want. But, we recommend using tailwind css. 
+4. If needed you can mix CSS framework with a component libarary
+
 
 Best wishes for you. Thank You!
-
-Deadline: 2 days (11:59 PM 20th October, 2021)
