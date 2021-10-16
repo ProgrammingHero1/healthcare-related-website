@@ -55,6 +55,9 @@ We have a sample task for you.
 3. You are free to use any css library you want. But, we recommend using tailwind css. 
 4. If needed you can mix CSS framework with a component library
 5. Use firebase auth
+6. Local storage is optional
+7. Environment variable is optional
+8. Try to host your site on Firebase (netlifiy host will need extra configuration)
 
 ### What to submit 
 1. Your github repository
