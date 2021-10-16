@@ -40,6 +40,7 @@ We have a sample task for you.
 
 
 ### Optional:
+1. Add something extra of your own. This will help you in the future.
 2. Make the footer little more realistic
 3. Add some mouseover animation while taking the mouse on the services card
 4. Use icons
