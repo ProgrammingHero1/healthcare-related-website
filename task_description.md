@@ -35,8 +35,8 @@ We have a sample task for you.
 3. After reloading the page on a private route, the user should not be redirected to the login page.
 4. Make the website responsive. Make sure the site looks different on desktop and mobile responsive. Tablet responsive is optional
 5. Use Context API
-6. Clean and organized Code
-7. Organize components and add comments when needed
+6. Clean and organized Code. Organize components and add comments when needed
+7. Display some error when user email address or password don't match.
 
 
 ### Optional:
@@ -48,6 +48,7 @@ We have a sample task for you.
 6. Make the footer little more realistic
 7. Optimize your images
 8. Add something extra of your own. This will help you in the future.
+9. Allow creation of multiple accounts with the same email address
 
 
 ### Additional information:
