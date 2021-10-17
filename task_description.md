@@ -40,13 +40,14 @@ We have a sample task for you.
 
 
 ### Optional:
-1. Add something extra of your own. This will help you in the future.
-2. Make the footer little more realistic
+1. Though Email and password validation is not mandatory for marks. We highly recommend to implement those.
+2. You may use `react hook form`, basic html form or any library for authentication
 3. Add some mouseover animation while taking the mouse on the services card
-4. Use icons
-5. use better font
-6. Optimize your images
-7. These assignments are very useful 
+4. If you want to take a challenge. consider using `react-leaflet`
+5. Please Use icons whenever applicable and use fonts
+6. Make the footer little more realistic
+7. Optimize your images
+8. Add something extra of your own. This will help you in the future.
 
 
 ### Additional information:
