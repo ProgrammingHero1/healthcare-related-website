@@ -1,4 +1,3 @@
 # Health-related-website
 
-## [Private repo link](https://classroom.github.com/a/pHjNhLPp)
-Click here for the private repo: [https://classroom.github.com/a/pHjNhLPp](https://classroom.github.com/a/pHjNhLPp)
+## This private repo link is no longer available. If you want to work on this project, use your own public repo
